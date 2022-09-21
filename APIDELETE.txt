@@ -1,0 +1,10 @@
+Request URL:/api/proc/{id}
+Request Method: DELETE
+Request:{
+   "id":"0"
+}
+Response:{
+   "id":"0",
+   "processName":"Idle",
+   "basePriority":0
+}
