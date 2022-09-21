@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7d347a0-1ef9-40c5-8cbc-806987ed4d2b": {
+      "ProjectGuid": "d7d347a0-1ef9-40c5-8cbc-806987ed4d2b",
+      "DisplayName": "WebApplication9",
+      "ColorIndex": 0
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Script Documents",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
